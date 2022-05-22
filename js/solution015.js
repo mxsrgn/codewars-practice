@@ -14,7 +14,7 @@ function getCount(str) {
 
 
 
-// Similar function that also dilivers thae same result
+// Similar function that also dilivers the same result
 
 // function getCount(str) {
 //     var vowelsCount = 0
