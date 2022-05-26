@@ -1,4 +1,3 @@
-
 // Function return the quarter of the year based on the given month
 
 const quarterOf = (month) => {
