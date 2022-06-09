@@ -1,4 +1,4 @@
-// Functions retruns the number of vowels inna given string
+// Functions returns the number of vowels in a given string
 
 function getCount(str) {
     let vowelsCount = 0;
